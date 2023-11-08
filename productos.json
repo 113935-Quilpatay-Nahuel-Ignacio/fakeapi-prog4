@@ -1,0 +1,22 @@
+{
+    "productos": [
+        {
+            "productName": "Nombre del Producto",
+            "productDescription": "Descripción del producto",
+            "productPrice": 10,
+            "productType": "Producto",
+            "productTimeFraction": null,
+            "productLocationName": "Sucursal 1",
+            "productLocationCount": 50
+        },
+        {
+            "productName": "Nombre del Producto",
+            "productDescription": "Descripción del producto",
+            "productPrice": 123.45,
+            "productType": "Servicio",
+            "productTimeFraction": 30,
+            "productLocationName": null,
+            "productLocationCount": null
+        }
+    ]
+}

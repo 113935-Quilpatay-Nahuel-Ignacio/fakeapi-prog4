@@ -1,8 +1,8 @@
 {
     "productos": [
         {
-            "productName": "Nombre del Producto",
-            "productDescription": "Descripción del producto",
+            "productName": "producto1",
+            "productDescription": "desc1",
             "productPrice": 10,
             "productType": "Producto",
             "productTimeFraction": null,
@@ -10,8 +10,8 @@
             "productLocationCount": 50
         },
         {
-            "productName": "Nombre del Producto",
-            "productDescription": "Descripción del producto",
+            "productName": "producto2",
+            "productDescription": "desc2",
             "productPrice": 123.45,
             "productType": "Servicio",
             "productTimeFraction": 30,
